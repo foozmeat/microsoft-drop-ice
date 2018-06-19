@@ -15,5 +15,6 @@ Signed,
 -  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
 -  Gavin Morgan [@quavmo](https://github.com/quavmo)
 -  Abram Stern [@aphid](https://github.com/aphid)
+-  James Moore [@foozmeat](https://github.com/foozmeat)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
